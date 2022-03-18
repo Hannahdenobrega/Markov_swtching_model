@@ -1,0 +1,27 @@
+{
+    "id": "C4F92A37",
+    "path": "C:/Git/Markov_switching_model/Template/MSTemplate.Rmd",
+    "project_path": "MSTemplate.Rmd",
+    "type": "r_markdown",
+    "hash": "521690409",
+    "contents": "",
+    "dirty": false,
+    "created": 1647526861763.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "51,11",
+        "scrollLine": "47"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1647585904,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1647585904242,
+    "read_only": false,
+    "read_only_alternatives": []
+}
